@@ -18,7 +18,7 @@ const RazorpayPayment = () => {
             currency: 'INR', //In USD - only card option will exist rest(like wallet, UPI, EMI etc) will hide
             key: 'rzp_test_HyV81tZZivWlmz',
             amount: '10000',
-            name: 'Klipit Test Payment',
+            name: 'Klipit Test Payment 123',
             order_id: '',//Replace this with an order_id created using Orders API.
             prefill: {
                 email: 'zaid@test',
